@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "cloudflare-pages-remix-app"
+name = "cloudflare-pages-remix-git-repo"
 compatibility_date = "2024-12-05"
 pages_build_output_dir = "./build/client"
 
